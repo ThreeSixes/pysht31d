@@ -1,1 +1,1 @@
-from sh31d import sh31d
+from sht31d import sht31d
